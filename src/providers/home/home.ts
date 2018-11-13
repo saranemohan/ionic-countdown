@@ -15,11 +15,12 @@ export class HomeProvider {
     console.log('Hello HomeProvider Provider');
 
     this.projectList = [
-      {name:'blugate', awardCount:120, currentCount:80},
-      {name:'blugate', awardCount:140, currentCount:60},
-      {name:'blugate', awardCount:150, currentCount:90},
-      {name:'blugate', awardCount:100, currentCount:50},
-      {name:'blugate', awardCount:120, currentCount:40}
+      {name:'blugate', awardCount:120, currentCount:130},
+      {name:'p3', awardCount:140, currentCount:130},
+      {name:'hyperbot', awardCount:150, currentCount:150},
+      {name:'fishfarm', awardCount:100, currentCount:50},
+      {name:'xpertin', awardCount:120, currentCount:40},
+      {name:'jma', awardCount:145, currentCount:45}
     ]
 
   }
